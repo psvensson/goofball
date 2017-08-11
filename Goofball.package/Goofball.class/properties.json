@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "PeterSvensson 8/11/2017 10:29",
+	"super" : "Object",
+	"category" : "Goofball",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"universe",
+		"viewport"
+	],
+	"name" : "Goofball",
+	"type" : "normal"
+}
